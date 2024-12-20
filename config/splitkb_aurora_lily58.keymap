@@ -10,7 +10,7 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 &led_strip {
-    chain-length = 28;
+    chain-length = <28>;
 };
 
 / {
