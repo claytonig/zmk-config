@@ -84,7 +84,7 @@
 // |   F7  |  F8 |  F9 |  F10 |  F11 |  F12 |        |  |       |  +   |   -   |   =   |  [   |   ]   |   \   |
 //                     |      |      |      |        |  |       |      |       |       |
             bindings = <
-&none &none &none &none &none &none                    &rgb_ug &rgb_ug &rgb_ug RGB_SPD &rgb_ug RGB_SPI &rgb_ug RGB_EFR &rgb_ug RGB_EFF
+&none &none &none &none &none &none                    &none &rgb_ug RGB_TOG &rgb_ug RGB_SPD &rgb_ug RGB_SPI &rgb_ug RGB_EFR &rgb_ug RGB_EFF
 &none &none &none &none &none &none                    &none &none &none &none &none &none
 &none &none &none &none &none &none                    &none &none &none &none &none &none
 &none &none &none &none &none &none   &none   &none    &none &none &none &none &none &none
