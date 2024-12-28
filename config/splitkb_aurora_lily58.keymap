@@ -68,7 +68,7 @@
             bindings = <
 &none &none &none &none &none &none                    &none &none &none &none &none &none
 &none &none &none &none &none &none                    &none &none &none &none &none &none
-&none &none &none &none &none &none                    &none &none &none &none &none &nones
+&none &none &none &none &none &none                    &none &none &none &none &none &none
 &none &none &none &none &none &none   &none   &none    &none &none &none &none &none &none
         	  &none &none &none   &none   &none    &none &none &none
             >;
