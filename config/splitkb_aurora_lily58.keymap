@@ -70,7 +70,7 @@
 &kp ESC &none &none &none &none &none                    &none &none &none &none &none &none
 &kp TAB &none &kp UP &none &none &none                    &none &none &none &none &none &none
 &none &kp LEFT &kp DOWN &kp RIGHT &none &none                    &none &none &none &none &none &none
-&kp LSHFT &none &none &none &none &none   &none   &none    &none &none &none &none &none &RSHFT
+&kp LSHFT &none &none &none &none &none   &none   &none    &none &none &none &none &none &kp RSHFT
         	  &kp LCTRL &kp LALT &kp LCMD  &kp SPACE  					&kp RET    &none &none &none
             >;
 
@@ -88,7 +88,7 @@
 &kp ESC &none &none &none &none &none                    &none &rgb_ug RGB_TOG &rgb_ug RGB_SPD &rgb_ug RGB_SPI &rgb_ug RGB_EFR &rgb_ug RGB_EFF
 &kp TAB &none &none &none &none &none                    &none &none 	     &none 	     &none 	     &none 	     &none
 &none &none &none &none &none &none                    &none &none 	     &none 	     &none 	     &none 	     &none
-&kp LSHFT &none &none &none &none &none   &none   &none    &none &none &none &none &none &RSHFT
+&kp LSHFT &none &none &none &none &none   &none   &none    &none &none &none &none &none &kp RSHFT
         	  &kp LCTRL &kp LALT &kp LCMD  &kp SPACE  					&kp RET    &none &none &none
             >;
 
